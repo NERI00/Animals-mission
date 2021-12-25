@@ -1,0 +1,47 @@
+.main-container {
+    text-align: center;
+    margin: 15px;
+}
+
+
+#header {
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+#Bunny {
+    background-color: aliceblue;
+    margin: auto;
+    margin: 10px;
+    padding: 15px;
+    width: 250px;
+    height: 150px;
+    text-align: center;
+    border-radius: 14px;
+    float: left;
+}
+
+#Cat {
+    background-color: aliceblue;
+    width: 250px;
+    height: 150px;
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+    border-radius: 14px;
+    margin: 10px;
+    float: left;
+}
+
+#Dog {
+    background-color: aliceblue;
+    width: 250px;
+    height: 150px;
+    text-align: center;
+    margin: auto;
+    padding: 15px;
+    border-radius: 14px;
+    margin: 10px;
+    float: left;
+}
